@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Reverse {
     public static void main(String[] args) {
         System.out.print("Enter Min 3 digit number :");
