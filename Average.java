@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Average {
     public static void main(String[] args) {
         System.out.print("Enter number of times to run a loop  :");
