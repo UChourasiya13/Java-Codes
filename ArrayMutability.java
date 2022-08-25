@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SwapDigitInArray {
+public class ArrayMutability {
     public static void main(String[] args) {
         int[] arr = {333 , 12 , 45 ,312 ,55};
         System.out.println(Arrays.toString(arr));
