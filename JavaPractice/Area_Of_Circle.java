@@ -12,6 +12,7 @@ public class Area_Of_Circle {
         area = l * b ;
         perimeter = 2*(l+b) ;
         System.out.println("area of circle is :" + area);
+        System.out.println("area of circle is :" + area);
         System.out.println("Perimeter of circle is :" + perimeter);
     }
 }
